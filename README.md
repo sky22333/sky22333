@@ -4,7 +4,7 @@
 #
                   
 - 😄  喜欢在折腾中学习知识。                
-- 💬  所有代码仅供个人学习。              
+- 💬   所有代码仅学习使用。              
 
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=sky22333&no-frame=true&column=-1)  
