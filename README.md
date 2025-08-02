@@ -5,4 +5,4 @@
   </a>
 </h1>
 
-<img style="width: 80%" src="https://github-immortality.vercel.app/api?username=sky22333" alt="代码修仙境界"></img>
+<img style="width: 90%" src="https://github-immortality.vercel.app/api?username=sky22333" alt="代码修仙境界"></img>
