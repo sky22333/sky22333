@@ -1,7 +1,7 @@
 <!-- 打字动效 -->
 <h1 align="center">
   <a>
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=console.log(一名小菜鸡的主页)&center=true&size=26&color=302755">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=一名小菜鸡的主页&center=true&size=26&color=302755">
   </a>
 </h1>
 
